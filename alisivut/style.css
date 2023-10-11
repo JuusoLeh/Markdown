@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to bottom, white, yellow);
+
+}
+
+.table1, th, td {
+    border: solid black;
+border-collapse: collapse;
+
+}
+table {
+
+    width: 100%
+}
+.lista1 {
+  
+    float: left;
+    width: 25%;
+    
+    }
+    .lista2 {
+        float: left;
+        width: 75%;
+         }
+    img{
+    width: 350px;
+    height: 350px;
+    
+         }
+     
+    
+    .row {
+        display: grid;
+       
+    }
+  .task2 {
+
+    background-color: greenyellow;
+  }
+
+    
+
