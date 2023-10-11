@@ -1,1 +1,1 @@
-[Siirry alisivulle](alisivut/alisivut.html)
+[Siirry alisivulle](alisivut/alisivu.html)
