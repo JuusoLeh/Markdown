@@ -1,7 +1,8 @@
 ## Juuso Lehtinen
 
-## test alivut
-[alisivut] (alisivut.md)
+## test alisivut
+[Alisivut](alisivut/alisivu.html)
+
 
 ## Aloitus Italic & bold
 _Writing in Markdown is not that hard!_
