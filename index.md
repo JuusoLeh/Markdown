@@ -1,7 +1,7 @@
 ## Juuso Lehtinen
 
 ## test alivut
-[alisivut](index.html)
+[alisivut] (index.html)
 ## Aloitus Italic & bold
 _Writing in Markdown is not that hard!_
 **I will complete these lessons!**
